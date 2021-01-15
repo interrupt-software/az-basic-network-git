@@ -1,0 +1,21 @@
+# Terraform state files #
+#########################
+*.tfstate
+*.tfstate.backup
+
+# Terraform provider files #
+###########################
+.terraform
+
+# Anything to do with SSH #
+###########################
+.ssh
+
+# MacOS generated files #
+#########################
+.DS_Store
+.DS_Store?
+
+# Sentinel policies dev #
+#########################
+policies-dev
