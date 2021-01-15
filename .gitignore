@@ -3,8 +3,8 @@
 *.tfstate
 *.tfstate.backup
 
-# Terraform provider files #
-###########################
+# Local Terraform provider files #
+##################################
 .terraform
 .terraform.lock.hcl
 
@@ -18,5 +18,6 @@
 .DS_Store?
 
 # Sentinel policies dev #
+# which have the mocks  #
 #########################
 policies-dev
