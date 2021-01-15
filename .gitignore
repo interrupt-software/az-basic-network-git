@@ -6,6 +6,7 @@
 # Terraform provider files #
 ###########################
 .terraform
+.terraform.lock.hcl
 
 # Anything to do with SSH #
 ###########################
