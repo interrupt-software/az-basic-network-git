@@ -1,6 +1,6 @@
 variable "prefix" {
   type    = string
-  default = "interrupt-vnet"
+  default = "kelly-vnet"
 }
 
 variable "location" {
